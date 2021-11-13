@@ -1,2 +1,5 @@
 # ignore log folder 
 Logs
+
+# ignore all exe files
+*.exe
