@@ -1,3 +1,4 @@
 #include Warrior.h
 void test();
-int mainfunction () {}
+
+int mainfunc () {}
