@@ -1,4 +1,4 @@
 #include Warrior.h
 void test();
-// test comment
+// test comment- changed
 int mainfunc () {}
